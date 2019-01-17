@@ -1,2 +1,2 @@
-# projects_regression
-Linear Regression and Logistic Regression Projects
+# Regression Projects
+Using Linear Regression and Logistic Regression Algorithmos
